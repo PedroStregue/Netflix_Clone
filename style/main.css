@@ -40,7 +40,7 @@ header .container{
 
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),url(/imgs/capa3.jpg);
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),url(/imgs/capa4.jpg);
     height: 600px;
     background-size:cover;
     display:flex;
@@ -81,7 +81,7 @@ botao i{
 }
 
 .box-filme{
-    height: 100%;
+    height: 450px;
     width: 100%;
     display: block;
 }
